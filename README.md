@@ -1,6 +1,3 @@
-![You banner here!](https://github.com/Nayrlen/Nayrlen/blob/main/imagens/banner-readme-templates.jpg) 
-
-[comment]: <> (i create my banner in Canva editor for free.)
 
 > "A própria luta para chegar ao cume basta para encher o coração de um homen" - Albert Camus
 
