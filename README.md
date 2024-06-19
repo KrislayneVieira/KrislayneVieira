@@ -35,21 +35,6 @@
 
 ---
 
-## 🚀 Projetos Recentes
-
-- [Projeto 1](https://github.com/KrislayneVieira/Projeto1) - Descrição breve do projeto.
-- [Projeto 2](https://github.com/KrislayneVieira/Projeto2) - Descrição breve do projeto.
-- [Projeto 3](https://github.com/KrislayneVieira/Projeto3) - Descrição breve do projeto.
-
----
-
-## 📚 Blogs e Artigos
-
-- [Artigo 1](https://medium.com/@KrislayneVieira/artigo1) - Descrição breve do artigo.
-- [Artigo 2](https://medium.com/@KrislayneVieira/artigo2) - Descrição breve do artigo.
-
----
-
 ## 🌐 Redes Sociais
 
 <p align="left">
