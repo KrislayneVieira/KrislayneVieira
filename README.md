@@ -1,4 +1,4 @@
-![You banner here!](https://www.canva.com/design/DAGImOoNgpA/C_xvCahKQRrquL5u1kqqag/edit?utm_content=DAGImOoNgpA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+![You banner here!](bannerKrislayne.png)
 
 > "A própria luta para chegar ao cume basta para encher o coração de um homem" - Albert Camus
 
