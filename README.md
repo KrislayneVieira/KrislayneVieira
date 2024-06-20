@@ -8,7 +8,7 @@
 
 - 🌱 Desenvolvimento Back-End Java.
 - 💬 Me pergunte sobre: `HTML`, `CSS`, `JavaScript`, `Java`, `Spring Framework`, `MySQL`.
-- 📫 Como entrar em contato comigo: [LinkedIn](https://www.linkedin.com/in/krislayne-vieira) | [Email](mailto:krislayne.silva@gmail.com)
+- 📫 Como entrar em contato comigo: [Linkedin](https://www.linkedin.com/in/krislayne-vieira) | [Email](mailto:krislayne.silva@gmail.com)
 
 ---
 
